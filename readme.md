@@ -2,7 +2,7 @@
 
 This project was part of our AI course in USJ.
 
-### Commands to run:
+## Commands to run:
 
 For installing dependencies:
 ```bash
